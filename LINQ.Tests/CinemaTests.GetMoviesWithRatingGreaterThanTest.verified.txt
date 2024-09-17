@@ -1,0 +1,32 @@
+﻿[
+  {
+    Title: The Shawshank Redemption,
+    Rating: 9.3,
+    Year: 1994
+  },
+  {
+    Title: The Godfather,
+    Rating: 9.2,
+    Year: 1972
+  },
+  {
+    Title: Inception,
+    Rating: 8.8,
+    Year: 2010
+  },
+  {
+    Title: The Dark Knight,
+    Rating: 9.0,
+    Year: 2008
+  },
+  {
+    Title: Parasite,
+    Rating: 8.6,
+    Year: 2019
+  },
+  {
+    Title: Interstellar,
+    Rating: 8.6,
+    Year: 2014
+  }
+]

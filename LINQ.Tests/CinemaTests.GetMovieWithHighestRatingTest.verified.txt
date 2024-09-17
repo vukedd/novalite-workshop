@@ -1,0 +1,5 @@
+﻿{
+  Title: The Shawshank Redemption,
+  Rating: 9.3,
+  Year: 1994
+}
